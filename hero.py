@@ -14,14 +14,15 @@ class SuperHero:
 
     def __str__(self):
         return (f'Прозвище героя: {self.nickname} \n'
-                f'Суперспособность героя:{self.superpower} \n'
+                f'Суперспособность героя: {self.superpower} \n'
                 f'Здоровье героя: {self.health_points} \n')
     def __len__(self):
         return len(self.catchphrase)
 
 hero = SuperHero("Bruh", "Рен Довер", "Щит оправдания", 100, "Бывает")
 
+print(hero.people)
 print(hero)
 hero.double_health()
-print(hero.health_points)
+print(f"Увеличенное в двое здоровье героя: {hero.health_points}")
 print(f"Длина коронной фразы героя: {len(hero)}")
