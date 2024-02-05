@@ -20,5 +20,8 @@ class SuperHero:
         return len(self.catchphrase)
 
 hero = SuperHero("Bruh", "Рен Довер", "Щит оправдания", 100, "Бывает")
+
 print(hero)
-print(len(hero))
+hero.double_health()
+print(hero.health_points)
+print(f"Длина коронной фразы героя: {len(hero)}")
