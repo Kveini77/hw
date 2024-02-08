@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="da3f0816-8f8b-44d3-a0c3-f19b3f11277f" name="Changes" comment="" />
+    <list default="true" id="da3f0816-8f8b-44d3-a0c3-f19b3f11277f" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gitignore" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -36,6 +39,7 @@
     "Python.hero.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -62,6 +66,7 @@
       <workItem from="1707144963778" duration="3000" />
       <workItem from="1707144976863" duration="1771000" />
       <workItem from="1707396275543" duration="5806000" />
+      <workItem from="1707402271913" duration="259000" />
     </task>
     <servers />
   </component>
