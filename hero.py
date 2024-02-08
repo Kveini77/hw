@@ -1,4 +1,4 @@
-# hero_v2.2
+# hero_v2.5
 class SuperHero:
     people = "people"
 
